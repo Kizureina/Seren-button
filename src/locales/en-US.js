@@ -1,11 +1,11 @@
 const en_US = {
     info: {
-        title: "Aqua Button",
+        title: "Rina Button",
         info: "Information",
         null: "Empty",
-        audioStaff: "Audio Clip: mchong111 CatCoffee",
+        audioStaff: "Audio Clip: A1exMinatoooo",
         toGithub: "Please participate in translation, add audio or make suggestions on Github:",
-        notOfficial: "This site is a fan work and is not associated with the hololive official."
+        notOfficial: "This site is a fan work and is not associated with the LepusLive official."
     },
     action: {
         toggleNavbar: "Toggle navigation bar",
