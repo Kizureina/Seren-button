@@ -59,6 +59,7 @@ body{
 .footer {
     width: 100%;
     height: 60px;
+    font-size: 30%;
     background-color: #ebebeb;
 }
 .footer-content {

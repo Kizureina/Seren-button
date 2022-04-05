@@ -1,7 +1,7 @@
 {
     "voices": [
         {
-            "categoryName": "actmoe",
+            "categoryName": "A-actmoe",
             "categoryDescription": {
                 "zh-CN": "萌",
                 "ja-JP": "もえ"
@@ -11,14 +11,14 @@
                     "name": "a-1",
                     "path": "a-1.mp3",
                     "description": {
-                        "zh-CN": "kon↑kon↑kon→kon↑kon→kon↓",
-                        "ja-JP": "kon↑kon↑kon→kon↑kon→kon↓"
+                        "zh-CN": "a-001",
+                        "ja-JP": "a-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "common",
+            "categoryName": "B-common",
             "categoryDescription": {
                 "zh-CN": "通用",
                 "ja-JP": "通常"
@@ -28,14 +28,14 @@
                     "name": "a-37",
                     "path": "a-37.mp3",
                     "description": {
-                        "zh-CN": "我要吃了",
-                        "ja-JP": "いただきます"
+                        "zh-CN": "b-001",
+                        "ja-JP": "b-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "greeting",
+            "categoryName": "C-greeting",
             "categoryDescription": {
                 "zh-CN": "打招呼",
                 "ja-JP": "挨拶"
@@ -45,14 +45,14 @@
                     "name": "a-67",
                     "path": "a-67.mp3",
                     "description": {
-                        "zh-CN": "byebeeeeeeeee",
-                        "ja-JP": "バイビーーーー"
+                        "zh-CN": "c-001",
+                        "ja-JP": "c-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "modal",
+            "categoryName": "D-modal",
             "categoryDescription": {
                 "zh-CN": "语气",
                 "ja-JP": "モーダル"
@@ -62,14 +62,14 @@
                     "name": "a-88",
                     "path": "a-88.mp3",
                     "description": {
-                        "zh-CN": "mua~",
-                        "ja-JP": "投げキッス1"
+                        "zh-CN": "d-001",
+                        "ja-JP": "d-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "nakigoe",
+            "categoryName": "E-nakigoe",
             "categoryDescription": {
                 "zh-CN": "叫声",
                 "ja-JP": "鳴き声"
@@ -79,14 +79,14 @@
                     "name": "a-107",
                     "path": "a-107.mp3",
                     "description": {
-                        "zh-CN": "pyonpyonしる",
-                        "ja-JP": "ぴょんぴょんしる～？"
+                        "zh-CN": "e-001",
+                        "ja-JP": "e-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "negation",
+            "categoryName": "F-negation",
             "categoryDescription": {
                 "zh-CN": "否定",
                 "ja-JP": "否定"
@@ -96,14 +96,14 @@
                     "name": "a-138",
                     "path": "a-138.mp3",
                     "description": {
-                        "zh-CN": "啊啊好恶心",
-                        "ja-JP": "ああ気持ち悪い"
+                        "zh-CN": "f-001",
+                        "ja-JP": "f-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "other",
+            "categoryName": "G-other",
             "categoryDescription": {
                 "zh-CN": "其他",
                 "ja-JP": "その他"
@@ -113,367 +113,31 @@
                     "name": "a-147",
                     "path": "a-147.mp3",
                     "description": {
-                        "zh-CN": "1~2~3~4~5~6~7~8",
-                        "ja-JP": "1~2~3~4~5~6~7~8"
+                        "zh-CN": "g-001",
+                        "ja-JP": "g-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "saying",
+            "categoryName": "H-saying",
             "categoryDescription": {
                 "zh-CN": "名言",
                 "ja-JP": "名言"
             },
             "voiceList": [
                 {
-                    "name": "a-160",
-                    "path": "a-160.mp3",
+                    "name": "h-001",
+                    "path": "h-001.mp3",
                     "description": {
-                        "zh-CN": "washoiwashoi 大家都washoi 一起来washoi",
-                        "ja-JP": "ﾜｯｼｮｲﾜｯｼｮｲ皆でﾜｯｼｮｲ一緒にﾜｯｼｮｲ―ﾜｯｼｮｲﾜｯｼｮｰｲ"
-                    }
-                },
-                {
-                    "name": "a-161",
-                    "path": "a-161.mp3",
-                    "description": {
-                        "zh-CN": "这个好像不需要",
-                        "ja-JP": "これいらないぽいっ"
-                    }
-                },
-                {
-                    "name": "a-162",
-                    "path": "a-162.mp3",
-                    "description": {
-                        "zh-CN": "这就是、湊阿夸的力量哦",
-                        "ja-JP": "これが、湊あくあのpruawerだから"
-                    }
-                },
-                {
-                    "name": "a-163",
-                    "path": "a-163.mp3",
-                    "description": {
-                        "zh-CN": "我可是永远都是5岁哦",
-                        "ja-JP": "わたくし永遠の五歳でちゅから"
-                    }
-                },
-                {
-                    "name": "a-164",
-                    "path": "a-164.mp3",
-                    "description": {
-                        "zh-CN": "我是单人玩家是吧",
-                        "ja-JP": "わたしソロプレーヤーなんだよね"
-                    }
-                },
-                {
-                    "name": "a-165",
-                    "path": "a-165.mp3",
-                    "description": {
-                        "zh-CN": "不 今晚不会放你去睡觉的哦",
-                        "ja-JP": "いや、今夜は寝かせないよ"
-                    }
-                },
-                {
-                    "name": "a-166",
-                    "path": "a-166.mp3",
-                    "description": {
-                        "zh-CN": "不要，别看啊，这样好色啊",
-                        "ja-JP": "やめて、見ないで、えっちじゃんそんな"
-                    }
-                },
-                {
-                    "name": "a-167",
-                    "path": "a-167.mp3",
-                    "description": {
-                        "zh-CN": "二次元赛高",
-                        "ja-JP": "二次元最高！"
-                    }
-                },
-                {
-                    "name": "a-168",
-                    "path": "a-168.mp3",
-                    "description": {
-                        "zh-CN": "但是这样是战胜不了我的~",
-                        "ja-JP": "でもわたしには敵いませ～ん"
-                    }
-                },
-                {
-                    "name": "a-169",
-                    "path": "a-169.mp3",
-                    "description": {
-                        "zh-CN": "余裕よ余裕",
-                        "ja-JP": "余裕よ余裕"
-                    }
-                },
-                {
-                    "name": "a-170",
-                    "path": "a-170.mp3",
-                    "description": {
-                        "zh-CN": "可以相信的只有自己",
-                        "ja-JP": "信じられるのは自分だけ"
-                    }
-                },
-                {
-                    "name": "a-171",
-                    "path": "a-171.mp3",
-                    "description": {
-                        "zh-CN": "全てを理解",
-                        "ja-JP": "全てを理解したわ"
-                    }
-                },
-                {
-                    "name": "a-172",
-                    "path": "a-172.mp3",
-                    "description": {
-                        "zh-CN": "区区汉字我还是会读的",
-                        "ja-JP": "漢字くらい読めるんですからね"
-                    }
-                },
-                {
-                    "name": "a-173",
-                    "path": "a-173.mp3",
-                    "description": {
-                        "zh-CN": "哇啊啊啊啊早上起床身边有别的女人",
-                        "ja-JP": "朝起きたら別の女が居た"
-                    }
-                },
-                {
-                    "name": "a-174",
-                    "path": "a-174.mp3",
-                    "description": {
-                        "zh-CN": "啊、理解理解、理解理解理解",
-                        "ja-JP": "あー、理解理解、理解理解理解"
-                    }
-                },
-                {
-                    "name": "a-175",
-                    "path": "a-175.mp3",
-                    "description": {
-                        "zh-CN": "喜欢 爱 结婚三连",
-                        "ja-JP": "大好き、愛してる、結婚しよう"
-                    }
-                },
-                {
-                    "name": "a-176",
-                    "path": "a-176.mp3",
-                    "description": {
-                        "zh-CN": "因为我是偶像哦",
-                        "ja-JP": "だって私、アイドルだもん"
-                    }
-                },
-                {
-                    "name": "a-177",
-                    "path": "a-177.mp3",
-                    "description": {
-                        "zh-CN": "完璧完璧",
-                        "ja-JP": "完璧完璧"
-                    }
-                },
-                {
-                    "name": "a-178",
-                    "path": "a-178.mp3",
-                    "description": {
-                        "zh-CN": "老家一样的安心感",
-                        "ja-JP": "実家のような安心感"
-                    }
-                },
-                {
-                    "name": "a-179",
-                    "path": "a-179.mp3",
-                    "description": {
-                        "zh-CN": "对我的帅气感到着迷了吗",
-                        "ja-JP": "俺のカッコよさに、見惚れちまったか？"
-                    }
-                },
-                {
-                    "name": "a-180",
-                    "path": "a-180.mp3",
-                    "description": {
-                        "zh-CN": "想看？啊，真没辙啊",
-                        "ja-JP": "見たい？あー、仕方ないな"
-                    }
-                },
-                {
-                    "name": "a-181",
-                    "path": "a-181.mp3",
-                    "description": {
-                        "zh-CN": "感觉掀起胖次也不会有罪恶感呢",
-                        "ja-JP": "なんかこうパンツをめくってても悪気がないもんね"
-                    }
-                },
-                {
-                    "name": "a-182",
-                    "path": "a-182.mp3",
-                    "description": {
-                        "zh-CN": "我什么都会做的",
-                        "ja-JP": "なんでもしますから・・・"
-                    }
-                },
-                {
-                    "name": "a-183",
-                    "path": "a-183.mp3",
-                    "description": {
-                        "zh-CN": "我会闻大家的味道就是了",
-                        "ja-JP": "私はね、皆の匂い嗅げますけど"
-                    }
-                },
-                {
-                    "name": "a-184",
-                    "path": "a-184.mp3",
-                    "description": {
-                        "zh-CN": "我家那孩子啊",
-                        "ja-JP": "うちの子がさああああ"
-                    }
-                },
-                {
-                    "name": "a-185",
-                    "path": "a-185.mp3",
-                    "description": {
-                        "zh-CN": "我跟西红柿哪个可爱一点啊！！",
-                        "ja-JP": "私とトマトどっちが可愛いんだよ！！"
-                    }
-                },
-                {
-                    "name": "a-186",
-                    "path": "a-186.mp3",
-                    "description": {
-                        "zh-CN": "我马上闭嘴",
-                        "ja-JP": "黙らせて頂きます"
-                    }
-                },
-                {
-                    "name": "a-187",
-                    "path": "a-187.mp3",
-                    "description": {
-                        "zh-CN": "拜托了！这是我这辈子的愿望！什么都做的啦",
-                        "ja-JP": "お願い、一生のお願い、なんでもするから"
-                    }
-                },
-                {
-                    "name": "a-188",
-                    "path": "a-188.mp3",
-                    "description": {
-                        "zh-CN": "接下来 我会让大家 渐渐地渐渐地燃起来的",
-                        "ja-JP": "これからみんなの事、どんどんどんどん熱くしていくから"
-                    }
-                },
-                {
-                    "name": "a-189",
-                    "path": "a-189.mp3",
-                    "description": {
-                        "zh-CN": "无路赛！无路赛无路赛！",
-                        "ja-JP": "うるさい！うるさいうるさいうるさい！"
-                    }
-                },
-                {
-                    "name": "a-191",
-                    "path": "a-191.mp3",
-                    "description": {
-                        "zh-CN": "理解理解",
-                        "ja-JP": "理解理解"
-                    }
-                },
-                {
-                    "name": "a-192",
-                    "path": "a-192.mp3",
-                    "description": {
-                        "zh-CN": "男人是、有不得不跨越的山 武士",
-                        "ja-JP": "男には、越えねばならぬ、山がある 侍"
-                    }
-                },
-                {
-                    "name": "a-193",
-                    "path": "a-193.mp3",
-                    "description": {
-                        "zh-CN": "这真是烦人的女人啊",
-                        "ja-JP": "これはうっとおしい女ですわぁ"
-                    }
-                },
-                {
-                    "name": "a-194",
-                    "path": "a-194.mp3",
-                    "description": {
-                        "zh-CN": "阿库娅你这家伙 已经成长成很优秀的阿库娅了呀",
-                        "ja-JP": "あクワお前、すっかり立派なあクワになっちまったな"
-                    }
-                },
-                {
-                    "name": "a-195",
-                    "path": "a-195.mp3",
-                    "description": {
-                        "zh-CN": "难道不是我的要求都应该接受吗？毕竟是生日嘛",
-                        "ja-JP": "私の言うことなんでも聞いてくれるんじゃないんですか？やっぱ誕生日だし"
-                    }
-                },
-                {
-                    "name": "a-196",
-                    "path": "a-196.mp3",
-                    "description": {
-                        "zh-CN": "骗你的哦",
-                        "ja-JP": "うそだよ"
-                    }
-                },
-                {
-                    "name": "a0616-22",
-                    "path": "a0616-22.mp3",
-                    "description": {
-                        "zh-CN": "拜托了我什么都会做的",
-                        "ja-JP": "お願いします、何でもしますから"
-                    }
-                },
-                {
-                    "name": "a0616-23",
-                    "path": "a0616-23.mp3",
-                    "description": {
-                        "zh-CN": "因为一直在一起所以懂得",
-                        "ja-JP": "ずっと一緒におるから分かるわ"
-                    }
-                },
-                {
-                    "name": "a0616-24",
-                    "path": "a0616-24.mp3",
-                    "description": {
-                        "zh-CN": " 因为我是孤独之星",
-                        "ja-JP": "そう、ぼっちだからさ"
-                    }
-                },
-                {
-                    "name": "a0616-25",
-                    "path": "a0616-25.mp3",
-                    "description": {
-                        "zh-CN": "我已经习惯了，不如说我觉得那就是爱情",
-                        "ja-JP": "わたしはね慣れてる、むしろそれが愛情だと思ってる"
-                    }
-                },
-                {
-                    "name": "a0616-26",
-                    "path": "a0616-26.mp3",
-                    "description": {
-                        "zh-CN": "我的朋友很少，【无牙】所以【友少】",
-                        "ja-JP": "僕は友達が少ない、歯がないだからはがない"
-                    }
-                },
-                {
-                    "name": "a0616-27",
-                    "path": "a0616-27.mp3",
-                    "description": {
-                        "zh-CN": "虽然白发很好但也要喜欢粉发哦",
-                        "ja-JP": "白もいいけど、ピンクにも好きになってね"
-                    }
-                },
-                {
-                    "name": "a0616-28",
-                    "path": "a0616-28.mp3",
-                    "description": {
-                        "zh-CN": "我湊阿夸对白发的看法是喜欢啊啊啊啊",
-                        "ja-JP": "私、湊あくあは白髪の女の子が好きだああ——"
+                        "zh-CN": "林莉奈太聪明了，怎么能有头发这种东西呢，碍事",
+                        "ja-JP": "林莉奈太聪明了，怎么能有头发这种东西呢，碍事"
                     }
                 }
             ]
         },
         {
-            "categoryName": "high",
+            "categoryName": "I-high",
             "categoryDescription": {
                 "zh-CN": "精神高涨",
                 "ja-JP": "ハイテンション"
@@ -483,94 +147,14 @@
                     "name": "a-197",
                     "path": "a-197.mp3",
                     "description": {
-                        "zh-CN": "moooo、你以为我是谁呢",
-                        "ja-JP": "もー、私を誰だと思ってるんですかぁ？"
-                    }
-                },
-                {
-                    "name": "a-198",
-                    "path": "a-198.mp3",
-                    "description": {
-                        "zh-CN": "阿夸可爱～阿夸可爱！",
-                        "ja-JP": "あくあかわいい～？あくあかわいい！"
-                    }
-                },
-                {
-                    "name": "a-199",
-                    "path": "a-199.mp3",
-                    "description": {
-                        "zh-CN": "拜托了！拜托了！拜托了！",
-                        "ja-JP": "お願い！お願い！お願い！"
-                    }
-                },
-                {
-                    "name": "a-200",
-                    "path": "a-200.mp3",
-                    "description": {
-                        "zh-CN": "麻烦了！",
-                        "ja-JP": "こまった！"
-                    }
-                },
-                {
-                    "name": "a-201",
-                    "path": "a-201.mp3",
-                    "description": {
-                        "zh-CN": "这就是凑阿夸啊啊啊！！！！！！",
-                        "ja-JP": "これが湊あくあじゃいいいい！！！！！！"
-                    }
-                },
-                {
-                    "name": "a-202",
-                    "path": "a-202.mp3",
-                    "description": {
-                        "zh-CN": "为什么啊！",
-                        "ja-JP": "なんでやねん！"
-                    }
-                },
-                {
-                    "name": "a-203",
-                    "path": "a-203.mp3",
-                    "description": {
-                        "zh-CN": "耶！！版本升级！！！",
-                        "ja-JP": "イェー！！バージョンアップ！！！"
-                    }
-                },
-                {
-                    "name": "a-204",
-                    "path": "a-204.mp3",
-                    "description": {
-                        "zh-CN": "嘿嘿嘿、真遗憾呐",
-                        "ja-JP": "んひひ、ざぁんねんですねぇ"
-                    }
-                },
-                {
-                    "name": "a-205",
-                    "path": "a-205.mp3",
-                    "description": {
-                        "zh-CN": "嘿嘿嘿嘿、期待了吗？",
-                        "ja-JP": "んひひひひひ、期待した？"
-                    }
-                },
-                {
-                    "name": "a-206",
-                    "path": "a-206.mp3",
-                    "description": {
-                        "zh-CN": "好—消—息—",
-                        "ja-JP": "ろーほー"
-                    }
-                },
-                {
-                    "name": "a0616-12",
-                    "path": "a0616-12.mp3",
-                    "description": {
-                        "zh-CN": "ガチ恋口上（mea酱へ）",
-                        "ja-JP": "ガチ恋口上（めあちゃんへ）"
+                        "zh-CN": "i-001",
+                        "ja-JP": "i-001"
                     }
                 }
             ]
         },
         {
-            "categoryName": "sing",
+            "categoryName": "J-sing",
             "categoryDescription": {
                 "zh-CN": "唱歌",
                 "ja-JP": "うた"
@@ -580,104 +164,59 @@
                     "name": "a-207",
                     "path": "a-207.mp3",
                     "description": {
-                        "zh-CN": "bad apple清唱",
-                        "ja-JP": "bad apple"
+                        "zh-CN": "j-001",
+                        "ja-JP": "j-001"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "categoryName": "K-icetea",
+            "categoryDescription": {
+                "zh-CN": "冰莉茶",
+                "ja-JP": "冰莉茶"
+            },
+            "voiceList": [
                 {
-                    "name": "a-208",
-                    "path": "a-208.mp3",
+                    "name": "k-001",
+                    "path": "k-001.mp3",
                     "description": {
-                        "zh-CN": "儿歌",
-                        "ja-JP": "メリーさんの羊"
+                        "zh-CN": "0402冰莉茶",
+                        "ja-JP": "0402冰莉茶"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "categoryName": "L-oshibai",
+            "categoryDescription": {
+                "zh-CN": "小剧场",
+                "ja-JP": "お芝居"
+            },
+            "voiceList": [
                 {
-                    "name": "a-209",
-                    "path": "a-209.mp3",
+                    "name": "l-001",
+                    "path": "l-001.m4a",
                     "description": {
-                        "zh-CN": "口胡生日歌",
-                        "ja-JP": "Happy birthday to you"
+                        "zh-CN": "批话女友",
+                        "ja-JP": "批话女友"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "categoryName": "M-debu",
+            "categoryDescription": {
+                "zh-CN": "肥宅音",
+                "ja-JP": "デブ"
+            },
+            "voiceList": [
                 {
-                    "name": "a-210",
-                    "path": "a-210.mp3",
+                    "name": "M-001",
+                    "path": "M-001.mp3",
                     "description": {
-                        "zh-CN": "夸乐器 晴天好心情",
-                        "ja-JP": "ハレ晴レユカイ(全部あくあ"
-                    }
-                },
-                {
-                    "name": "a-211",
-                    "path": "a-211.mp3",
-                    "description": {
-                        "zh-CN": "夸乐器1",
-                        "ja-JP": "ぱぱぱぱっぱぱー♪"
-                    }
-                },
-                {
-                    "name": "a-212",
-                    "path": "a-212.mp3",
-                    "description": {
-                        "zh-CN": "夸乐器3",
-                        "ja-JP": "ぷーぷーぷーぷーぷーぷーぷーぷひゃあああ"
-                    }
-                },
-                {
-                    "name": "a-213",
-                    "path": "a-213.mp3",
-                    "description": {
-                        "zh-CN": "夸乐器4",
-                        "ja-JP": "ボイパ"
-                    }
-                },
-                {
-                    "name": "a-214",
-                    "path": "a-214.mp3",
-                    "description": {
-                        "zh-CN": "夸乐器5",
-                        "ja-JP": "プンプンプンプンプンプンパー"
-                    }
-                },
-                {
-                    "name": "a-215",
-                    "path": "a-215.mp3",
-                    "description": {
-                        "zh-CN": "夸乐器海贼王",
-                        "ja-JP": "ウィーアー!"
-                    }
-                },
-                {
-                    "name": "a-216",
-                    "path": "a-216.mp3",
-                    "description": {
-                        "zh-CN": "小星星清唱",
-                        "ja-JP": "きらきら星"
-                    }
-                },
-                {
-                    "name": "a-217",
-                    "path": "a-217.mp3",
-                    "description": {
-                        "zh-CN": "狗夸蜜汁合唱（大嘘）",
-                        "ja-JP": "狗夸蜜汁合唱（大嘘）"
-                    }
-                },
-                {
-                    "name": "a-218",
-                    "path": "a-218.mp3",
-                    "description": {
-                        "zh-CN": "现充之歌",
-                        "ja-JP": "陽キャの歌"
-                    }
-                },
-                {
-                    "name": "a0616-29",
-                    "path": "a0616-29.mp3",
-                    "description": {
-                        "zh-CN": "夸乐器",
-                        "ja-JP": "夸乐器"
+                        "zh-CN": "肥宅音1",
+                        "ja-JP": "肥宅音1"
                     }
                 }
             ]
