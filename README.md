@@ -10,6 +10,8 @@ Rina button [点此前往 https://rinabutton.a1ex.pw](https://rinabutton.a1ex.pw
 
 ## 如何贡献
 
+**我们推荐使用 `commitizen` 来规范化 commit 信息，此项也将列入合并 Pull Request 时的优先考虑项。**
+
 请 Fork 此分支，并在修改完成后提交 Pull Request，审核通过后将会合并。
 
 ### 添加或编辑声音
