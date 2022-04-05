@@ -1,6 +1,6 @@
 const zh_CN = {
     info: {
-        title: "大莉按钮",
+        title: "莉按钮",
         info: "信息",
         null: "空",
         audioStaff: "音频剪辑: A1exMinatoooo",
