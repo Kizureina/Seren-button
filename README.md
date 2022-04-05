@@ -24,6 +24,14 @@ Rina button [点此前往 https://rinabutton.a1ex.pw](https://rinabutton.a1ex.pw
 
 若您修改了音频文件，请在修改之后删除旧文件。
 
+#### 添加方式
+
+1. 将音频存放在 [public/voices](public/voices) 目录下，并按照 `分类编号 + 3 位数字` 的形式进行命名。
+
+2. 编辑 [src/voices.json](src/voices.json)，在对应分类的 `voiceList` 下添加新项，`name` 为 `分类编号 + 3 位数字`，`path` 为 `name` 加上文件扩展名，`description` 下添加对应的名称及翻译，若不确定翻译可暂时使用原文进行占位。
+
+3. 提交 Pull Request。
+
 ### 参与本地化
 
 欢迎有志之士参与本站英语及日语的本地化工作！
