@@ -25,11 +25,59 @@
             },
             "voiceList": [
                 {
-                    "name": "a-37",
-                    "path": "a-37.mp3",
+                    "name": "b-001",
+                    "path": "b-001.mp3",
                     "description": {
-                        "zh-CN": "b-001",
-                        "ja-JP": "b-001"
+                        "zh-CN": "霸道儿",
+                        "ja-JP": "霸道儿"
+                    }
+                },
+                {
+                    "name": "b-002",
+                    "path": "b-002.mp3",
+                    "description": {
+                        "zh-CN": "拳头嗯了",
+                        "ja-JP": "拳头嗯了"
+                    }
+                },
+                {
+                    "name": "b-003",
+                    "path": "b-003.mp3",
+                    "description": {
+                        "zh-CN": "别收卷别收卷",
+                        "ja-JP": "别收卷别收卷"
+                    }
+                },
+                {
+                    "name": "b-004",
+                    "path": "b-004.mp3",
+                    "description": {
+                        "zh-CN": "啊对对对",
+                        "ja-JP": "啊对对对"
+                    }
+                },
+                {
+                    "name": "b-005",
+                    "path": "b-005.mp3",
+                    "description": {
+                        "zh-CN": "做什么风筝，做个林莉奈QQ人吧",
+                        "ja-JP": "做什么风筝，做个林莉奈QQ人吧"
+                    }
+                },
+                {
+                    "name": "b-006",
+                    "path": "b-006.mp3",
+                    "description": {
+                        "zh-CN": "救救我↗",
+                        "ja-JP": "救救我↗"
+                    }
+                },
+                {
+                    "name": "b-007",
+                    "path": "b-007.mp3",
+                    "description": {
+                        "zh-CN": "我来了我来了我来啦",
+                        "ja-JP": "我来了我来了我来啦"
                     }
                 }
             ]
@@ -90,6 +138,54 @@
                         "zh-CN": "叫声2(卡比)",
                         "ja-JP": "ははーい１"
                     }
+                },
+                {
+                    "name": "e-003",
+                    "path": "e-003.mp3",
+                    "description": {
+                        "zh-CN": "海鸥笑1",
+                        "ja-JP": "海鸥笑1"
+                    }
+                },
+                {
+                    "name": "e-004",
+                    "path": "e-004.mp3",
+                    "description": {
+                        "zh-CN": "海鸥笑2",
+                        "ja-JP": "海鸥笑2"
+                    }
+                },
+                {
+                    "name": "e-007",
+                    "path": "e-007.mp3",
+                    "description": {
+                        "zh-CN": "海鸥笑3",
+                        "ja-JP": "海鸥笑3"
+                    }
+                },
+                {
+                    "name": "e-008",
+                    "path": "e-008.mp3",
+                    "description": {
+                        "zh-CN": "海鸥笑4",
+                        "ja-JP": "海鸥笑4"
+                    }
+                },
+                {
+                    "name": "e-005",
+                    "path": "e-005.mp3",
+                    "description": {
+                        "zh-CN": "啊↗啊↘",
+                        "ja-JP": "啊↗啊↘"
+                    }
+                },
+                {
+                    "name": "e-006",
+                    "path": "e-006.mp3",
+                    "description": {
+                        "zh-CN": "好坐牢啊——",
+                        "ja-JP": "好坐牢啊——"
+                    }
                 }
             ]
         },
@@ -101,11 +197,11 @@
             },
             "voiceList": [
                 {
-                    "name": "a-138",
-                    "path": "a-138.mp3",
+                    "name": "f-001",
+                    "path": "f-001.mp3",
                     "description": {
-                        "zh-CN": "f-001",
-                        "ja-JP": "f-001"
+                        "zh-CN": "씨발",
+                        "ja-JP": "씨발"
                     }
                 }
             ]
@@ -157,6 +253,46 @@
                         "zh-CN": "比起救我的朋友，第一件事果然还是恰大米",
                         "ja-JP": "比起救我的朋友，第一件事果然还是恰大米"
                     }
+                },
+                {
+                    "name": "h-004",
+                    "path": "h-004.mp3",
+                    "description": {
+                        "zh-CN": "我们的什么片儿啊",
+                        "ja-JP": "我们的什么片儿啊"
+                    }
+                },
+                {
+                    "name": "h-005",
+                    "path": "h-005.mp3",
+                    "description": {
+                        "zh-CN": "不经一番彻骨寒，白菜出的题太难",
+                        "ja-JP": "不经一番彻骨寒，白菜出的题太难"
+                    }
+                },
+                {
+                    "name": "h-006",
+                    "path": "h-006.mp3",
+                    "description": {
+                        "zh-CN": "策马前途需努力，舰长还需一个亿",
+                        "ja-JP": "策马前途需努力，舰长还需一个亿"
+                    }
+                },
+                {
+                    "name": "h-007",
+                    "path": "h-007.mp3",
+                    "description": {
+                        "zh-CN": "我的理想是什么？vtb",
+                        "ja-JP": "我的理想是什么？vtb"
+                    }
+                },
+                {
+                    "name": "h-008",
+                    "path": "h-008.mp3",
+                    "description": {
+                        "zh-CN": "我要当vtb恰大米！",
+                        "ja-JP": "我要当vtb恰大米！"
+                    }
                 }
             ]
         },
@@ -185,11 +321,19 @@
             },
             "voiceList": [
                 {
-                    "name": "a-207",
-                    "path": "a-207.mp3",
+                    "name": "j-001",
+                    "path": "j-001.mp3",
                     "description": {
-                        "zh-CN": "j-001",
-                        "ja-JP": "j-001"
+                        "zh-CN": "再见了妈妈今晚我就要远航",
+                        "ja-JP": "再见了妈妈今晚我就要远航"
+                    }
+                },
+                {
+                    "name": "j-002",
+                    "path": "j-002.mp3",
+                    "description": {
+                        "zh-CN": "红烧鸡翅我喜欢吃~",
+                        "ja-JP": "红烧鸡翅我喜欢吃~"
                     }
                 }
             ]
@@ -232,6 +376,14 @@
                     "description": {
                         "zh-CN": "批话女友",
                         "ja-JP": "批话女友"
+                    }
+                },
+                {
+                    "name": "l-002",
+                    "path": "l-002.mp3",
+                    "description": {
+                        "zh-CN": "翻译腔朗诵1",
+                        "ja-JP": "翻译腔朗诵1"
                     }
                 }
             ]
