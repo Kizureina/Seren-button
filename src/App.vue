@@ -37,12 +37,15 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <div class="pull-right">
+                <!-- <div class="pull-right">
                     <div class="text-right"><a href="https://github.com/A1exMinatoooo/rina-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/A1exMinatoooo/rina-button.svg?style=social"/></a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
-                </div>
-                <div>{{$t("info.audioStaff")}}</div>
-                <div>A1exMinatoooo 2022 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div>
+                </div> -->
+                <div class="text-center"><a href="https://github.com/A1exMinatoooo/rina-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/A1exMinatoooo/rina-button.svg?style=social"/></a></div>
+                <div class="text-center">{{$t("info.notOfficial")}}</div>
+                <div class="text-center">{{$t("info.audioStaff")}}</div>
+                <div class="text-center">Made with ❤ A1exMinatoooo 2022</div>
+                <div class="text-center"><span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div>
             </div>
         </footer>
   </div>
@@ -58,7 +61,7 @@ body{
 }
 .footer {
     width: 100%;
-    height: 60px;
+    height: auto;
     font-size: 75%;
     background-color: #ebebeb;
 }
