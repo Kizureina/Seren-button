@@ -8,6 +8,13 @@ Rina button [点此前往 https://rinabutton.a1ex.pw](https://rinabutton.a1ex.pw
 
 * [林莉奈 - Bilibili](https://space.bilibili.com/1243266187/)
 
+[TOC]
+
+## TODO
+
+- [ ] 增加音频进度条
+- [ ] 使用 Element+ 重构
+
 ## 如何贡献
 
 **我们推荐使用 `commitizen` 来规范化 commit 信息，此项也将列入合并 Pull Request 时的优先考虑项。**
