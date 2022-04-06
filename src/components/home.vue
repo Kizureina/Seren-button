@@ -48,7 +48,7 @@
 }
 .btn-new {
     color: #fff;
-    background-color: rgb(0, 92, 175);
+    background-color: rgb(0, 113, 212);
     border-color: rgb(81, 168, 221);
     max-width: 100%;
     word-wrap: break-word !important;
