@@ -396,11 +396,11 @@
             },
             "voiceList": [
                 {
-                    "name": "M-001",
-                    "path": "M-001.mp3",
+                    "name": "m-001",
+                    "path": "m-001.mp3",
                     "description": {
-                        "zh-CN": "肥宅音1",
-                        "ja-JP": "肥宅音1"
+                        "zh-CN": "大莉看FL",
+                        "ja-JP": "大莉看FL"
                     }
                 }
             ]
