@@ -41,7 +41,7 @@
                     <div class="text-right"><a href="https://github.com/A1exMinatoooo/rina-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/A1exMinatoooo/rina-button.svg?style=social"/></a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div> -->
-                <div class="text-center"><a href="https://github.com/A1exMinatoooo/rina-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/A1exMinatoooo/rina-button.svg?style=social"/></a></div>
+                <div class="text-center"><a href="https://github.com/A1exMinatoooo/rina-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/A1exMinatoooo/rina-button.svg?style=social" class="github-stars-icon"/></a></div>
                 <div class="text-center">{{$t("info.notOfficial")}}</div>
                 <div class="text-center">{{$t("info.audioStaff")}}</div>
                 <div class="text-center">Made with ❤ A1exMinatoooo 2022</div>
@@ -67,10 +67,14 @@ body{
 }
 .footer-content {
     padding-top: 10px;
+    padding-bottom: 10px;
     color: #666;
 }
 .text-right{
     text-align: right;
+}
+.github-stars-icon {
+    width: 4%;
 }
 </style>
 
