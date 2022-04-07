@@ -8,11 +8,11 @@
             },
             "voiceList": [
                 {
-                    "name": "a-1",
-                    "path": "a-1.mp3",
+                    "name": "a-001",
+                    "path": "a-001.mp3",
                     "description": {
-                        "zh-CN": "a-001",
-                        "ja-JP": "a-001"
+                        "zh-CN": "拟声1",
+                        "ja-JP": "拟声1"
                     }
                 }
             ]
@@ -78,6 +78,14 @@
                     "description": {
                         "zh-CN": "我来了我来了我来啦",
                         "ja-JP": "我来了我来了我来啦"
+                    }
+                },
+                {
+                    "name": "b-008",
+                    "path": "b-008.mp3",
+                    "description": {
+                        "zh-CN": "爷来了，爷被烤了",
+                        "ja-JP": "爷来了，爷被烤了"
                     }
                 }
             ]
@@ -185,6 +193,110 @@
                     "description": {
                         "zh-CN": "好坐牢啊——",
                         "ja-JP": "好坐牢啊——"
+                    }
+                },
+                {
+                    "name": "e-009",
+                    "path": "e-009.mp3",
+                    "description": {
+                        "zh-CN": "啊——G♯",
+                        "ja-JP": "啊——G♯"
+                    }
+                },
+                {
+                    "name": "e-010",
+                    "path": "e-010.mp3",
+                    "description": {
+                        "zh-CN": "啊——D5→C♯",
+                        "ja-JP": "啊——D5→C♯"
+                    }
+                },
+                {
+                    "name": "e-011",
+                    "path": "e-011.mp3",
+                    "description": {
+                        "zh-CN": "啊——D♯",
+                        "ja-JP": "啊——D♯"
+                    }
+                },
+                {
+                    "name": "e-012",
+                    "path": "e-012.mp3",
+                    "description": {
+                        "zh-CN": "啊——救命啊——D♯",
+                        "ja-JP": "啊——救命啊——D♯"
+                    }
+                },
+                {
+                    "name": "e-013",
+                    "path": "e-013.mp3",
+                    "description": {
+                        "zh-CN": "叫声3",
+                        "ja-JP": "叫声3"
+                    }
+                },
+                {
+                    "name": "e-014",
+                    "path": "e-014.mp3",
+                    "description": {
+                        "zh-CN": "啊——G6",
+                        "ja-JP": "啊——G6"
+                    }
+                },
+                {
+                    "name": "e-015",
+                    "path": "e-015.mp3",
+                    "description": {
+                        "zh-CN": "叫声4",
+                        "ja-JP": "叫声4"
+                    }
+                },
+                {
+                    "name": "e-016",
+                    "path": "e-016.mp3",
+                    "description": {
+                        "zh-CN": "啊——E5",
+                        "ja-JP": "啊——E5"
+                    }
+                },
+                {
+                    "name": "e-017",
+                    "path": "e-017.mp3",
+                    "description": {
+                        "zh-CN": "捏——1",
+                        "ja-JP": "捏——1"
+                    }
+                },
+                {
+                    "name": "e-018",
+                    "path": "e-018.mp3",
+                    "description": {
+                        "zh-CN": "捏——2",
+                        "ja-JP": "捏——2"
+                    }
+                },
+                {
+                    "name": "e-019",
+                    "path": "e-019.mp3",
+                    "description": {
+                        "zh-CN": "捏——3",
+                        "ja-JP": "捏——3"
+                    }
+                },
+                {
+                    "name": "e-020",
+                    "path": "e-020.mp3",
+                    "description": {
+                        "zh-CN": "助けて～",
+                        "ja-JP": "助けて～"
+                    }
+                },
+                {
+                    "name": "e-021",
+                    "path": "e-021.mp3",
+                    "description": {
+                        "zh-CN": "啊——D♯(2)",
+                        "ja-JP": "啊——D♯(2)"
                     }
                 }
             ]
@@ -300,6 +412,22 @@
                     "description": {
                         "zh-CN": "我今天宣布千冬就是我爹",
                         "ja-JP": "我今天宣布千冬就是我爹"
+                    }
+                },
+                {
+                    "name": "h-010",
+                    "path": "h-010.mp3",
+                    "description": {
+                        "zh-CN": "为了你我变成狼人模样",
+                        "ja-JP": "为了你我变成狼人模样"
+                    }
+                },
+                {
+                    "name": "h-011",
+                    "path": "h-011.mp3",
+                    "description": {
+                        "zh-CN": "没关系，两秒也很厉害",
+                        "ja-JP": "没关系，两秒也很厉害"
                     }
                 }
             ]
