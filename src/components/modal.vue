@@ -21,7 +21,7 @@
 
 <style lang="scss">
 .modal{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 </style>
 

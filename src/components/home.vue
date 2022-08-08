@@ -32,7 +32,7 @@
 
 <style lang="scss" scoped>
 .cate-header{
-    background-color: rgba(244, 60, 137, 0.596);
+    background-color: rgba(112, 60, 244, 0.596);
     border: 1px solid rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     text-align: center;
@@ -47,9 +47,9 @@
     margin: 5px;
 }
 .btn-new {
-    color: #fff;
-    background-color: rgb(0, 113, 212);
-    border-color: rgb(81, 168, 221);
+    color: rgb(237, 227, 227);
+    background-color: rgb(51, 40, 198);
+    border-color: rgb(6, 19, 27);
     max-width: 100%;
     word-wrap: break-word !important;
     word-break: break-all !important;

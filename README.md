@@ -1,20 +1,14 @@
-# Rina Button
+# Seren Button
 
-Rina button [点此前往 https://rinabutton.a1ex.pw](https://rinabutton.a1ex.pw)
+Seren button [点此前往 https://rinabutton.a1ex.pw](https://rinabutton.a1ex.pw)
 
 [![Deploy GitHub Pages](https://github.com/A1exMinatoooo/rina-button/actions/workflows/main.yml/badge.svg)](https://github.com/A1exMinatoooo/rina-button/actions/workflows/main.yml)
 
 相关链接：
 
-* [林莉奈 - Bilibili](https://space.bilibili.com/1243266187/)
-
-[TOC]
-
-## TODO
-
-- [ ] 增加音频进度条
-- [ ] 使用 Element+ 重构
-
+* [東雪蓮Official - Bilibili](https://space.bilibili.com/1437582453/)
+* [東 雪蓮Seren Azuma - Youtube](https://youtube.com/c/東雪蓮SerenAzuma)
+* [東 雪蓮 - Twitter](https://twitter.com/AzumaSeren)
 ## 如何贡献
 
 **我们推荐使用 `commitizen` 来规范化 commit 信息，此项也将列入合并 Pull Request 时的优先考虑项。**
