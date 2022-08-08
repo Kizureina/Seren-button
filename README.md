@@ -1,7 +1,5 @@
 # Seren Button
 
-Seren button [点此前往 https://rinabutton.a1ex.pw](https://rinabutton.a1ex.pw)
-
 [![Deploy GitHub Pages](https://github.com/A1exMinatoooo/rina-button/actions/workflows/main.yml/badge.svg)](https://github.com/A1exMinatoooo/rina-button/actions/workflows/main.yml)
 
 相关链接：
